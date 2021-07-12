@@ -1,0 +1,12 @@
+
+
+header img {
+    height: 40px;
+    width: 120px;
+}
+
+header li {
+    list-style: none;
+    float: left;
+    padding: 4px;
+}

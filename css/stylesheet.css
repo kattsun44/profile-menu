@@ -1,5 +1,13 @@
 
 
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
 header img {
     height: 40px;
     width: 120px;
@@ -9,4 +17,11 @@ header li {
     list-style: none;
     float: left;
     padding: 4px;
+}
+
+#mainvisual img {
+    width: 100%;
+    max-width: 1920px;
+    height: 600px;
+    object-fit: cover;
 }
